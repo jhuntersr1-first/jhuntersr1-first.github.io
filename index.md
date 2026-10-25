@@ -1,5 +1,5 @@
 ---
-title: Jerome Hunter | Cloud DevSecOps Engineer
+title: Cloud DevSecOps Engineer
 ---
 
 # Jerome Hunter
